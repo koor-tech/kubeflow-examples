@@ -134,6 +134,7 @@ Follow these instructions to run the MNIST tutorial on IBM Cloud
   ```
 
 1. Open the notebook `mnist/mnist_vanilla_k8s.ipynb`
+   * If using rook for object storage, use the notebook `mnist/mnist_vanilla_k8s_rook.ipynb` instead
 
 1. Follow the notebook to train and deploy on MNIST on Kubeflow
 
